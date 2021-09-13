@@ -1,6 +1,6 @@
-# MSc-Data-Science-and-Machine-Learning
+# UCL MSc-Data-Science-and-Machine-Learning
 
-This is the repository containing the accompanying code for the MSc-Data-Science-and-Machine-Learning Thesis:
+This is the repository containing the accompanying code for the MSc Data Science and Machine Learning Thesis at UCL:
 
 (COVER PAGE)
 
